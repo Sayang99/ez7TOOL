@@ -8,7 +8,7 @@ cy='\033[36;1m' #cyan
 me='\033[31;1m' #merah
 pu='\033[37;1m' #putih
 ku='\033[33;1m' #kuning
-# Recode ajh mmnx
+
 echo
 echo
 #ini paket untuk menjalankan tools
@@ -16,6 +16,9 @@ bin.sh
 echo
 clear
 echo
+sleep 2
+sleep 2
+sleep 2
 echo
 echo $me"                     ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶"
 echo $me"                 ¶¶¶¶¶¶             ¶¶¶¶¶¶¶"
@@ -52,6 +55,7 @@ echo $me"      ¶¶  ¶¶                                   ¶¶  ¶¶"
 echo $me"       ¶¶¶¶                                     ¶¶¶¶"
 echo
 echo
+sleep 2
 echo $cy "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 echo $me "╔─━━━━━━━★━━━━━━━─╗"
 echo $i     "๏SCRIPT BY : E Z 01๏"
@@ -70,28 +74,28 @@ echo $i     "๏DAFTAR TOOL๏"
 echo $cy "╚─━━━━━━━★━━━━━━━─╝"
 echo 
 echo $me "╔─━━━━━━━━━━━━━━━━━━━━━━━━━━━━─╗"
-echo     $i  "Brute FORCE FB"
+echo $i [1]"Brute FORCE FB"
 echo $me "╚─━━━━━━━━━━━━━━━━━━━━━━━━━━━━─╝"
 echo $me "╔─━━━━━━━━━━━━━━━━━━━━━━━━━━━━─╗"
-echo     $i  "Banggunin Sahur"
+echo $i [2]"Banggunin Sahur"
 echo $me "╚─━━━━━━━━━━━━━━━━━━━━━━━━━━━━─╝"
 echo $me "╔─━━━━━━━━━━━━━━━━━━━━━━━━━━━━─╗"
-echo     $i  "Skull PROJECT"
+echo $i [3]"Skull PROJECT"
 echo $me "╚─━━━━━━━━━━━━━━━━━━━━━━━━━━━━─╝"
 echo $me "╔─━━━━━━━━━━━━━━━━━━━━━━━━━━━━─╗"
-echo     $i  "Bot ALICE (KHUSUS JOMBLO)"
+echo $i [4]"Bot ALICE (KHUSUS JOMBLO)"
 echo $me "╚─━━━━━━━━━━━━━━━━━━━━━━━━━━━━─╝"
 echo $me "╔─━━━━━━━━━━━━━━━━━━━━━━━━━━━━─╗"
-echo     $i  "MATA MATA"
+echo $i [5]"MATA MATA"
 echo $me "╚─━━━━━━━━━━━━━━━━━━━━━━━━━━━━─╝"
 echo $me "╔─━━━━━━━━━━━━━━━━━━━━━━━━━━━━─╗"
-echo     $i  "Trap PROJECT V1(BETA)"
+echo $i [6]"Trap PROJECT V1(BETA)"
 echo $me "╚─━━━━━━━━━━━━━━━━━━━━━━━━━━━━─╝"
 echo $me "╔─━━━━━━━━━━━━━━━━━━━━━━━━━━━━─╗"
-echo     $i  "Sadap CCTV"
+echo $i [7]"Sadap CCTV"
 echo $me "╚─━━━━━━━━━━━━━━━━━━━━━━━━━━━━─╝"
 echo $me "╔─━━━━━━━━━━━━━━━━━━━━━━━━━━━━─╗"
-echo     $i  "E X I T"
+echo     $i  "[E X I T]"
 echo $me "╚─━━━━━━━━━━━━━━━━━━━━━━━━━━━━─╝"
 echo
 echo
